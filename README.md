@@ -5,4 +5,4 @@ Compare different models:
 2. CNN
 3. Transformer
 
-for customer review rating prediction task.
+for product rating prediction task (using customer review).
