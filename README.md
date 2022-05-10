@@ -1,4 +1,4 @@
-# SIAP (sistemi za istrazivanje i analizu podataka) - Data mining
+# Data mining course project
 
 Compare different models:
 1. RNN
